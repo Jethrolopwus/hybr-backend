@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+### First, run the development server:
 
 ```bash
 npm run dev
@@ -13,8 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
-The backend services is hosted on this .render web service.
+### The backend services is hosted on this .render web service.
+```
 https://hybr-toolkit.onrender.com
+```
+### Tested all endpoints on Postman before deployment
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
